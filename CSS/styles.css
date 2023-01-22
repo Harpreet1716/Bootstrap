@@ -58,3 +58,11 @@ body {
     left: 0;
     min-height: 300px;
 }
+
+label{
+    color: black;
+}
+
+h4  {
+    color: #0f0f0f;
+}

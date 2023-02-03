@@ -13,10 +13,12 @@ $(document).ready(function(){
             $('#carouselButton').children('span').addClass('fa-pause');
         }
     });
+
     $('#logIn').click(function(){
         $('#loginModal').modal();
     });
+
     $('#resTable').click(function(){
         $('#reserveModal').modal();
     });
-})
+});
